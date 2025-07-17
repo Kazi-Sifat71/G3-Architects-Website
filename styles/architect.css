@@ -188,6 +188,11 @@ align-items: center;
   filter: grayscale(100%);
 }
 
+.footer-description{
+  text-align: center;
+  margin-top: 169px;
+  padding: 39px 410px;
+}
 
 
 /* responsive media query */
